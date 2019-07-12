@@ -1,0 +1,25 @@
+{
+  "name": "MM",
+  "version": "1.0.0",
+  "description": "Игра вопрос ответ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GubanovIgor/MM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GubanovIgor/MM/issues"
+  },
+  "homepage": "https://github.com/GubanovIgor/MM#readme",
+  "dependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0"
+  }
+}
